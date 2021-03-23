@@ -1,0 +1,42 @@
+*{
+    margin: 5% 15% 0 25%;
+    padding: 0;
+    box-sizing: 0;
+}
+
+html{
+    background-color: #fff;
+    color: #5f5f5f;
+    font-family: 'Asap', sans-serif;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+    align-items: center;
+}
+
+h1{
+    
+}
+
+.form-control{
+    margin-right: 10%;
+    margin-left: 10%;
+    align-items: right;
+}
+
+.label{
+    margin: 0;
+    
+}
+
+.form-class{
+    
+    
+}
+
+.btn-success{
+    margin-left: 0;
+}
+
+#main{
+    
+}
