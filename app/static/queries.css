@@ -57,10 +57,6 @@
         display: none;
     }
 
-    .item-box-of-3{
-        /* padding-right: 50%; */
-    }
-
     .img-box-of-3{
         margin-right: 10%;
         padding-right: 50%;
@@ -157,11 +153,6 @@
     
     }
 
-    .photo{
-        width: 25%;
-        height: 25%;
-    }
-
 }
 
 @media only screen and (max-width: 360px){
@@ -230,4 +221,12 @@
         padding-right: 50%;
     }
 
+}
+
+/***************************/
+/*          HEIGHTS        */
+/***************************/
+
+@media only screen and (max-width: 280px){
+    
 }
