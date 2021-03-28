@@ -145,8 +145,22 @@ h3{
     
 }
 
-.front, .back{
+.front, .back, .about{
     background-color: #465743;
+}
+
+.about{
+    color:white;
+    
+}
+
+.about p{
+    justify-content: center;
+    text-align:center;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 2%;
+    
 }
 
 .front{
