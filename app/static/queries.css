@@ -226,7 +226,16 @@
 /***************************/
 /*          HEIGHTS        */
 /***************************/
-
-@media only screen and (max-width: 280px){
+@media only screen and (max-height: 812px){
+    .hero-text-box{
+        width: 25%;
+    }
     
+    .hero-text-box h1{
+        font-size: 50%;
+    }
+
+    .main-nav{
+        font-size: 20%;
+    }
 }
