@@ -87,7 +87,8 @@
     }
     .photo {
         height: auto;
-        width: auto;
+        max-height: 75%;
+        width: 100%;
     }
 }
 
