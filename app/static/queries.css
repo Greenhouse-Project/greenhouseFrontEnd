@@ -82,6 +82,13 @@
     .img-box-of-3{
         margin-right: 30%;
     }
+    .img-box-of-8{
+        height: 50vh;
+    }
+    .photo {
+        height: auto;
+        width: auto;
+    }
 }
 
 @media only screen and (max-width: 540px){
